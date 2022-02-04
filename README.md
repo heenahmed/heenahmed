@@ -9,16 +9,16 @@
 I am Heena Ahmed, an upcoming Software Engineer Intern [Microsoft](https://github.com/microsoft). I am very keen to learn new technologies and use them to either create something useful or improve the existing softwares.   
 ⚡ Fun fact: I love to connect with people and learn about their journey, it helps me to open up my mind for different perspectives on various domains.   
 💬 Ask me anything, I will be more than happy to help :D
-<h3>Summary</h3>
+<!-- <h3>Summary</h3> -->
 
 <!-- 
 [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/yogita10/yogita10/main/profile-summary-card-output/nord_dark/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) -->
 
-![Heena's GitHub stats](https://github-readme-stats.vercel.app/api?username=heenahmed08&theme=material-palenight&show_icons=true)
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heenahmed&theme=gruvbox_duo" alt="heenahmed08" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heenahmed&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="heenahmed08" /></p> 
+![Heena's GitHub stats](https://github-readme-stats.vercel.app/api?username=heenahmed&theme=material-palenight&show_icons=true)
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=heenahmed&theme=gruvbox_duo" alt="heenahmed" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=heenahmed&theme=material-palenight&show_icons=true&locale=en&layout=compact" alt="heenahmed" /></p> 
 <br><br>
 <br>
 <br>
