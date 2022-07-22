@@ -53,7 +53,7 @@ Languages
 
 <p align="left">
 <!-- <a href="https://twitter.com/yogita10khurana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ahmedheena" height="30" width="40" /></a> -->
-<a href="https://linkedin.com/in/heenahmed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-heena" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/heenaahmed/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ahmed-heena" height="30" width="40" /></a>
 <a href="mailto:heenahmed08@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/fluency/344/mail.png" alt="ahmed-heena" height="50" width="50" /></a>
 </p>
 <br>
